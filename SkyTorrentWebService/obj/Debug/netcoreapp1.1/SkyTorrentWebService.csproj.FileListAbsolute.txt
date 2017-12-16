@@ -7,3 +7,5 @@ c:\users\amedeo\documents\visual studio 2017\Projects\SkyTorrentWebService\SkyTo
 c:\users\amedeo\documents\visual studio 2017\Projects\SkyTorrentWebService\SkyTorrentWebService\obj\Debug\netcoreapp1.1\SkyTorrentWebService.AssemblyInfo.cs
 c:\users\amedeo\documents\visual studio 2017\Projects\SkyTorrentWebService\SkyTorrentWebService\obj\Debug\netcoreapp1.1\SkyTorrentWebService.dll
 c:\users\amedeo\documents\visual studio 2017\Projects\SkyTorrentWebService\SkyTorrentWebService\obj\Debug\netcoreapp1.1\SkyTorrentWebService.pdb
+C:\Users\Amedeo\Documents\Visual Studio 2017\Projects\SkyTorrentWebService\SkyTorrentWebService\obj\Debug\netcoreapp1.1\SkyTorrentWebService.csproj.CoreCompileInputs.cache
+C:\Users\Amedeo\Documents\Visual Studio 2017\Projects\SkyTorrentWebService\SkyTorrentWebService\obj\Debug\netcoreapp1.1\SkyTorrentWebService.AssemblyInfoInputs.cache
