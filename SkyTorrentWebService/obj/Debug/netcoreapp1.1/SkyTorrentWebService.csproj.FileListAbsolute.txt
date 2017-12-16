@@ -1,0 +1,9 @@
+c:\users\amedeo\documents\visual studio 2017\Projects\SkyTorrentWebService\SkyTorrentWebService\bin\Debug\netcoreapp1.1\SkyTorrentWebService.deps.json
+c:\users\amedeo\documents\visual studio 2017\Projects\SkyTorrentWebService\SkyTorrentWebService\bin\Debug\netcoreapp1.1\SkyTorrentWebService.runtimeconfig.json
+c:\users\amedeo\documents\visual studio 2017\Projects\SkyTorrentWebService\SkyTorrentWebService\bin\Debug\netcoreapp1.1\SkyTorrentWebService.runtimeconfig.dev.json
+c:\users\amedeo\documents\visual studio 2017\Projects\SkyTorrentWebService\SkyTorrentWebService\bin\Debug\netcoreapp1.1\SkyTorrentWebService.dll
+c:\users\amedeo\documents\visual studio 2017\Projects\SkyTorrentWebService\SkyTorrentWebService\bin\Debug\netcoreapp1.1\SkyTorrentWebService.pdb
+c:\users\amedeo\documents\visual studio 2017\Projects\SkyTorrentWebService\SkyTorrentWebService\obj\Debug\netcoreapp1.1\SkyTorrentWebService.csprojResolveAssemblyReference.cache
+c:\users\amedeo\documents\visual studio 2017\Projects\SkyTorrentWebService\SkyTorrentWebService\obj\Debug\netcoreapp1.1\SkyTorrentWebService.AssemblyInfo.cs
+c:\users\amedeo\documents\visual studio 2017\Projects\SkyTorrentWebService\SkyTorrentWebService\obj\Debug\netcoreapp1.1\SkyTorrentWebService.dll
+c:\users\amedeo\documents\visual studio 2017\Projects\SkyTorrentWebService\SkyTorrentWebService\obj\Debug\netcoreapp1.1\SkyTorrentWebService.pdb
